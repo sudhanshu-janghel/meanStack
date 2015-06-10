@@ -1,0 +1,26 @@
+{
+  "name": "drone",
+  "version": "1.0.0",
+  "description": "drone security analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sudhanshu-janghel/meanStack.git"
+  },
+  "keywords": [
+    "meanstack"
+  ],
+  "author": "sudhanshu singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudhanshu-janghel/meanStack/issues"
+  },
+  "homepage": "https://github.com/sudhanshu-janghel/meanStack",
+  "dependencies": {
+    "express": "^4.12.4",
+    "jade": "^1.10.0"
+  }
+}
